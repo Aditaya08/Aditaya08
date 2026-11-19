@@ -75,12 +75,12 @@ with role-based auth and audit middleware that records who changed what.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,solidity,typescript,react,nextjs,nodejs&theme=dark" alt="Rust, Solidity, TypeScript, React, Next.js, Node" />
   <br />
-  <img src="https://skillicons.dev/icons?i=express,prisma,postgres,mongodb,docker,linux&theme=dark" alt="Express, Prisma, PostgreSQL, MongoDB, Docker, Linux" />
+  <img src="https://skillicons.dev/icons?i=express,prisma,postgres,mongodb,python,docker,linux&theme=dark" alt="Express, Prisma, PostgreSQL, MongoDB, Python, Docker, Linux" />
 </p>
 
 Bitcoin: Script, PSBT, P2WSH multisig, CLTV \
 Chain work: Solidity/EVM, Bitcoin Core RPC, regtest \
-Product layer: TypeScript, React, Next.js, Node, Prisma, PostgreSQL, MongoDB \
+Product layer: TypeScript, React, Next.js, Node, Python/FastAPI, Prisma, PostgreSQL, MongoDB \
 Low level: Rust, WebAssembly
 
 ## 📬 Elsewhere
