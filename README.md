@@ -1,4 +1,4 @@
-<h1 align="center">Aditaya Sharma</h1>
+<h1 align="center">Aditaya </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=Web3+full-stack+engineer;Bitcoin+Script+and+PSBT;Rust+%E2%86%92+WebAssembly;Solidity+when+the+chain+needs+it" alt="What I work on" />
